@@ -7,7 +7,7 @@ Data Science, Machine Learning, and Big Data technologies. I am passionate about
 Advanced techniques in Machine Learning and Artificial Intelligence, focusing on deep learning frameworks like TensorFlow and PyTorch. I'm also enhancing my skills in cloud services like AWS and Azure to better deploy and scale my data science projects.
 
 ## 👥 I’m looking to collaborate on ...
-Projects that utilize data science to make meaningful impacts in healthcare and real estate. I'm especially interested in opportunities that leverage AI to drive decision-making and innovation.
+Projects that utilize data science to make meaningful impacts in healthcare, retail and technology industries. I'm especially interested in opportunities that leverage AI to drive decision-making and innovation.
 
 ## 📫 How to reach me ...
 - Email: suprathikavangari@my.unt.edu
