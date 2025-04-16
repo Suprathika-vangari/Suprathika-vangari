@@ -20,44 +20,6 @@ I’m a Data Engineer with 3+ years of experience and a Master’s degree in Dat
 
 ---
 
-💡 **Current Focus Areas**
-### 🛠️ Skills & Tech Stack
-
-#### 🚀 Data Engineering  
-- 🧩 **ETL & Pipelines**: [ETL Tools]  
-- 📦 **Data Warehousing**: [DWH Tech]  
-- 🔄 **Batch & Streaming**: [Streaming Tools]
-
-#### ☁️ Cloud Platforms  
-- ☁️ **AWS**: [Services]  
-- 🔷 **Azure**: [Services]  
-- 🟠 **GCP**: [Services]
-
-#### 📊 Business Intelligence & Visualization  
-- 📈 [BI Tools]  
-- 🧠 [ML Studio Tools]  
-
-#### 🧠 Machine Learning & AI  
-- 🧠 [ML Libraries]  
-- 🦙 [LLM & GenAI Tools]  
-- 🤖 [Deployment Tools]  
-
-#### 🧪 Programming Languages  
-- 🐍 [Languages like Python, SQL, etc.]  
-- 💻 [Scripting or Infra Tools]  
-
-#### 🧰 DevOps & MLOps  
-- 🔁 [CI/CD Tools]  
-- 📂 [Containerization/Orchestration]  
-- 📡 [Monitoring Tools]  
-
-#### 🔐 Data Quality, Governance & Security  
-- 📊 [Data Validation Tools]  
-- 🔐 [Security & Access Tools]  
-
-
----
-
 📂 **Featured Projects**
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -68,6 +30,41 @@ I’m a Data Engineer with 3+ years of experience and a Master’s degree in Dat
 
 ---
 
+### 🛠️ Skills & Tech Stack
+
+#### 🚀 Data Engineering  
+- 🧩 **ETL & Pipelines**: Apache Spark, Apache Airflow, DBT, Talend 
+- 📦 **Data Warehousing**: Snowflake, Redshift, BigQuery, Azure Synapse  
+- 🔄 **Batch & Streaming**: Kafka, Spark Structured Streaming, AWS Kinesis
+
+#### ☁️ Cloud Platforms  
+- ☁️ **AWS**: S3, Glue, Lambda, Redshift, Athena, EMR 
+- 🔷 **Azure**: Data Factory, Synapse, Databricks, Event Hubs  
+- 🟠 **GCP**: BigQuery, Cloud Storage, Vertex AI, Dataflow
+
+#### 📊 Business Intelligence & Visualization  
+- 📈 Power BI, Tableau, Looker  
+- 🧠 Azure ML Studio for drag-and-drop ML workflows  
+
+#### 🧠 Machine Learning & AI  
+- 🧠 Scikit-learn, TensorFlow, PyTorch  
+- 🦙 LLMs: Llama3, RAG, LangChain, Hugging Face  
+- 🤖 Model Deployment & Monitoring with MLflow, Azure ML  
+
+#### 🧪 Programming Languages  
+- 🐍 Python (Pandas, NumPy, PySpark)  
+- 🐘 SQL (PostgreSQL, MySQL, Oracle), T-SQL    
+
+#### 🧰 DevOps & MLOps  
+- 🔁 CI/CD: GitHub Actions, Azure DevOps, Git  
+- 📂 Docker, Kubernetes  
+- 📡 Monitoring: Grafana, CloudWatch  
+
+#### 🔐 Data Quality, Governance & Security  
+- 📊 Data Lineage & Quality Checks: Great Expectations  
+- 🔐 IAM Roles, Access Policies (AWS & Azure)  
+
+---
 🛠️ **Tech Stack & Tools**
 
 <p align="left">
