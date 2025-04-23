@@ -23,10 +23,10 @@ I’m a Data Engineer with 3+ years of experience and a Master’s degree in Dat
 📂 **Featured Projects**
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 💬 **Retail Chatbot with LLaMA 3 + RAG** | GenAI assistant automating customer queries, reducing agent workload by 40% | LLaMA 3, LangChain, RAG, AWS |
+| 💬 **Retail Chatbot with LLaMA 3 + RAG** | GenAI assistant automating customer queries, reducing agent workload by 40% | LLaMA 3, LangChain, LangGraph, Agentic RAG |
 | 🏥 **Healthcare Data Platform on Azure** | Built an end-to-end data pipeline for clinical data ingestion and processing | Azure Data Factory, Databricks, Delta Lake |
 | 📈 **Real-Time Financial Dashboard** | Streaming pipeline enabling portfolio managers to make instant decisions | Kafka, Spark, Power BI |
-| 🔍 **Crime Pattern Analysis** | GCP-based analytics pipeline detecting regional theft trends | GCP BigQuery, Dataflow, Python |
+| 🔍 **Crime Pattern Analysis** | GCP-based analytics pipeline detecting regional theft trends | GCP - BigQuery, Dataflow, Dataproc,BigQuery, Hadoop, Hive, Spark |
 
 ---
 
