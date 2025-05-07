@@ -38,25 +38,21 @@
 
 ## Featured Projects
 
-### [Retailia: AI-powered Chatbot](https://github.com/yourusername/retailia)  
+### [Retailia: AI-powered Chatbot](https://github.com/Suprathika-vangari/Retailia-Chatbot-with-Llama3-and-Agentic-RAG?tab=readme-ov-file)  
 *Technologies: Python, NLP, Llama3, RAG*  
 Reduced customer support response time by 40% with an intelligent chatbot that understands and assists retail queries.  
-![Retailia Demo](link-to-screenshot-or-gif)
 
-### [Healthcare Data Pipeline](https://github.com/yourusername/healthcare-data-pipeline)  
+### [Healthcare Data Pipeline]  
 *Technologies: Azure Data Factory, Databricks, Delta Lake*  
 Built a compliant, end-to-end data pipeline ensuring accurate healthcare data processing and management.  
-![Pipeline Architecture](link-to-screenshot-or-gif)
 
 ### [Neighborhood Theft Analysis](https://github.com/yourusername/theft-analysis)  
 *Technologies: GCP, Hadoop, Spark SQL*  
 Analyzed crime data to identify patterns and help reduce theft incidents by 10%.  
-![Dashboard Preview](link-to-screenshot-or-gif)
 
 ### [Food Delivery Management System](https://github.com/yourusername/food-delivery-app)  
 *Technologies: Flask, MySQL, HTML/CSS*  
 Optimized order processing workflow, increasing efficiency by 25% and customer satisfaction by 15%.  
-![App Screenshot](link-to-screenshot-or-gif)
 
 ---
 
