@@ -38,7 +38,7 @@
 
 ## Featured Projects
 
-### [Retailia: AI-powered Chatbot](https://github.com/Suprathika-vangari/Retailia-Chatbot-with-Llama3-and-Agentic-RAG?tab=readme-ov-file)  
+### [Retailia: AI-powered Chatbot]  
 *Technologies: Python, NLP, Llama3, RAG*  
 Reduced customer support response time by 40% with an intelligent chatbot that understands and assists retail queries.  
 
@@ -46,11 +46,11 @@ Reduced customer support response time by 40% with an intelligent chatbot that u
 *Technologies: Azure Data Factory, Databricks, Delta Lake*  
 Built a compliant, end-to-end data pipeline ensuring accurate healthcare data processing and management.  
 
-### [Neighborhood Theft Analysis](https://github.com/yourusername/theft-analysis)  
+### [Neighborhood Theft Analysis] 
 *Technologies: GCP, Hadoop, Spark SQL*  
 Analyzed crime data to identify patterns and help reduce theft incidents by 10%.  
 
-### [Food Delivery Management System](https://github.com/yourusername/food-delivery-app)  
+### [Food Delivery Management System]  
 *Technologies: Flask, MySQL, HTML/CSS*  
 Optimized order processing workflow, increasing efficiency by 25% and customer satisfaction by 15%.  
 
