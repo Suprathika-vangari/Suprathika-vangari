@@ -38,17 +38,17 @@
 
 ## Featured Projects
 
-### [Retailia: AI-powered Chatbot]  
-*Technologies: Python, NLP, Llama3, RAG*  
-Reduced customer support response time by 40% with an intelligent chatbot that understands and assists retail queries.  
+### Retailia: AI-powered Chatbot  
+*Technologies: Python, NLP, Llama3, RAG, Langchain, Langraph, Agentic Retrieval Augmentation Generation*  
+Built an AI chatbot for retail leveraging Llama 3 and Agentic Retrieval Augmentation Generation (RAG), automating 65% of routine queries (order tracking, returns) via real-time SQL DB lookups and FAISS vector search across 10K+ documentation pages, reducing response times by 40%. Python, SQL, Llama 3.1, RAG, Langchain, Langraph.
 
 ### [Healthcare Data Pipeline]  
-*Technologies: Azure Data Factory, Databricks, Delta Lake*  
-Built a compliant, end-to-end data pipeline ensuring accurate healthcare data processing and management.  
+*Technologies: Azure Data Factory, Databricks, Delta Lake, SQL Database*  
+Designed and deployed an end-to-end Azure data pipeline using Data Factory, ADLS Gen2, Databricks, and SQL Database. Automated ETL workflows, implemented multi-zone data lake architecture, ensured data governance with Unity Catalog, Azure Key Vault for access control, optimized performance with parallel processing and incremental loads.
 
 ### [Neighborhood Theft Analysis] 
-*Technologies: GCP, Hadoop, Spark SQL*  
-Analyzed crime data to identify patterns and help reduce theft incidents by 10%.  
+*Technologies: OpenRefine, GCP, GCS, Dataproc, Hadoop, BigQuery, Hive SQL, Spark SQl*  
+Processed 15+ unstructured crime reports (PDFs/CSV) using OpenRefine, identifying 12 theft patterns (23% weekend spikes) from public datasets; Engineered a data pipeline using GCP (Dataproc, Hadoop), created tables using BigQuery, conducted advanced analysis with Hive and Spark, uncovering time-based crime patterns and insights.  
 
 ### [Food Delivery Management System]  
 *Technologies: Flask, MySQL, HTML/CSS*  
