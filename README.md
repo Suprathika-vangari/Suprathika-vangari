@@ -1,6 +1,6 @@
  # Hi there! 👋 I'm Suprathika V
 
-### Data Engineer | Cloud & Big Data Enthusiast | Curious person
+### Data Engineer | Cloud | AI/ML | Curious person
 
 ---
 
