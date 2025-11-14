@@ -1,10 +1,10 @@
  # Hi there! 👋 I'm Suprathika V
 
-### Data Engineer | Cloud | AI/ML | Curious person
+### Engineer | Cloud | AI/ML | Curious person
 
 ---
 
-🌟 Welcome to my GitHub portfolio! I’m a passionate Data Engineer with 3+ years of experience building scalable data pipelines and cloud architectures. I love turning complex data challenges into elegant, efficient solutions using modern tools and technologies.
+🌟 Welcome to my GitHub portfolio! I’m a passionate Engineer with 3+ years of experience building scalable pipelines and cloud architectures. I love turning complex data challenges into elegant, efficient solutions using modern tools and technologies.
 
 ---
 
@@ -28,10 +28,10 @@
 
 ## Tech Stack
 
-**Cloud:** AWS | Azure | GCP  
+**Cloud:** AWS | Azure 
 **Big Data:** Spark | Kafka | Hadoop | Databricks  
-**Languages:** Python | Scala | Java | SQL  
-**Tools:** Airflow | Terraform | Jenkins | Docker | Kubernetes  
+**Languages:** Python | Scala | Java | SQL | .net |  
+**Tools:** Airflow | Terraform | Jenkins | Docker 
 **Visualization:** Power BI | Tableau | Grafana  
 
 ---
@@ -50,9 +50,6 @@ Designed and deployed an end-to-end Azure data pipeline using Data Factory, ADLS
 *Technologies: OpenRefine, GCP, GCS, Dataproc, Hadoop, BigQuery, Hive SQL, Spark SQl*  
 Processed 15+ unstructured crime reports (PDFs/CSV) using OpenRefine, identifying 12 theft patterns (23% weekend spikes) from public datasets; Engineered a data pipeline using GCP (Dataproc, Hadoop), created tables using BigQuery, conducted advanced analysis with Hive and Spark, uncovering time-based crime patterns and insights.  
 
-### [Food Delivery Management System]  
-*Technologies: Flask, MySQL, HTML/CSS*  
-Optimized order processing workflow, increasing efficiency by 25% and customer satisfaction by 15%.  
 
 ---
 
