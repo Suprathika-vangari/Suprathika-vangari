@@ -31,8 +31,8 @@
 **Cloud:** AWS | Azure 
 **Big Data:** Spark | Kafka | Hadoop | Databricks  
 **Languages:** Python | Scala | Java | SQL | .net |  
-**Tools:** Airflow | Terraform | Jenkins | Docker 
-**Visualization:** Power BI | Tableau | Grafana  
+**Tools:** Airflow | Jenkins | Docker 
+**Visualization & Monitoring:** Power BI | Tableau | Grafana
 
 ---
 
@@ -63,4 +63,4 @@ Processed 15+ unstructured crime reports (PDFs/CSV) using OpenRefine, identifyin
 
 Thanks for visiting! Feel free to explore my repos and reach out if you want to collaborate or chat about data engineering and cloud tech. 🚀
 
-⭐ *Always curious. Always building. Always learning.* 
+⭐ *Always curious. Always learning.* 
