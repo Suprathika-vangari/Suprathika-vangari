@@ -1,57 +1,24 @@
- # Hi there! 👋 I'm Suprathika V
+# Hi there, I'm Suprathika 
 
-### Engineer | Cloud | AI/ML | Curious person
-
----
-
-🌟 Welcome to my GitHub portfolio! I’m a passionate Engineer with 3+ years of experience building scalable pipelines and cloud architectures. I love turning complex data challenges into elegant, efficient solutions using modern tools and technologies.
-
----
-
-## About Me
-
-- Currently crafting robust data workflows and real-time streaming systems at Alliant Group  
-- Skilled in Python, PySpark, Scala, SQL, and cloud platforms like AWS, Azure & GCP  
-- Big fan of clean code, automation, and data-driven decision making  
-- Outside work, I enjoy exploring AI chatbots 🤖, analyzing crime data 🕵️‍♀️, and cooking up new recipes 🍳  
-
----
-
-## What I Build
-
-- Scalable ETL pipelines & data lakes  
-- Real-time data streaming & processing systems  
-- Predictive models & data dashboards  
-- Automated workflows with Airflow & Azure Data Factory  
-
----
-
-## Tech Stack
-
-**Cloud:** AWS | Azure 
-**Big Data:** Spark | Kafka | Hadoop | Databricks  
-**Languages:** Python | Scala | Java | SQL | .net |  
-**Tools:** Airflow | Jenkins | Docker 
-**Visualization & Monitoring:** Power BI | Tableau | Grafana
-
----
-
-## Featured Projects
-
-### Retailia: AI-powered Chatbot  
-*Technologies: Python, NLP, Llama3, RAG, Langchain, Langraph, Agentic Retrieval Augmentation Generation*  
-Built an AI chatbot for retail leveraging Llama 3 and Agentic Retrieval Augmentation Generation (RAG), automating 65% of routine queries (order tracking, returns) via real-time SQL DB lookups and FAISS vector search across 10K+ documentation pages, reducing response times by 40%. Python, SQL, Llama 3.1, RAG, Langchain, Langraph.
-
-### [Healthcare Data Pipeline]  
-*Technologies: Azure Data Factory, Databricks, Delta Lake, SQL Database*  
-Designed and deployed an end-to-end Azure data pipeline using Data Factory, ADLS Gen2, Databricks, and SQL Database. Automated ETL workflows, implemented multi-zone data lake architecture, ensured data governance with Unity Catalog, Azure Key Vault for access control, optimized performance with parallel processing and incremental loads.
-
-### [Neighborhood Theft Analysis] 
-*Technologies: OpenRefine, GCP, GCS, Dataproc, Hadoop, BigQuery, Hive SQL, Spark SQl*  
-Processed 15+ unstructured crime reports (PDFs/CSV) using OpenRefine, identifying 12 theft patterns (23% weekend spikes) from public datasets; Engineered a data pipeline using GCP (Dataproc, Hadoop), created tables using BigQuery, conducted advanced analysis with Hive and Spark, uncovering time-based crime patterns and insights.  
-
-
----
+- 💻 I’m a Data Engineer focused on building reliable cloud data pipelines and analytics solutions.  [oai_citation:0‡Suprathika_V_Resume_Data_Engineer.pdf](sediment://file_000000000c5c71f8b469576b91fe116f)  
+- 👀 I’m interested in Data Engineering, Analytics, and Applied AI (RAG, LLM apps, real-time analytics).  
+- 🌱 I’m currently deepening my skills in Azure Databricks, Delta Lake, Spark Structured Streaming, and AWS data services.  [oai_citation:1‡Suprathika_V_Resume_Data_Engineer.pdf](sediment://file_000000000c5c71f8b469576b91fe116f)  
+- 🛠️ Tech I use often: Python, SQL, PySpark, Databricks, Azure (ADF, Data Lake, DevOps), AWS (S3, Glue, Redshift), Power BI & Tableau.  [oai_citation:2‡Suprathika_V_Resume_Data_Engineer.pdf](sediment://file_000000000c5c71f8b469576b91fe116f)  
+- 📚 Recent projects:  
+  - Retailia – dual-agent RAG chatbot with Llama 3.1 and FAISS vector search.  [oai_citation:3‡Suprathika_V_Resume_Data_Engineer.pdf](sediment://file_000000000c5c71f8b469576b91fe116f)  
+  - End-to-end Azure Lakehouse with Delta Lake, automated quality checks, and CI/CD.  [oai_citation:4‡Suprathika_V_Resume_Data_Engineer.pdf](sediment://file_000000000c5c71f8b469576b91fe116f)  
+- 📫 How to reach me:  
+  - Email: **suprathika.v06@gmail.com**  
+  - LinkedIn: [linkedin.com/in/suprathikav](https://www.linkedin.com/in/suprathikav)
+- 👀 I’m interested in Data Engineering, Analytics, and Applied AI (RAG, LLM apps, real-time analytics).  
+- 🌱 I’m currently deepening my skills in Azure Databricks, Delta Lake, Spark Structured Streaming, and AWS data services.  [oai_citation:1‡Suprathika_V_Resume_Data_Engineer.pdf](sediment://file_000000000c5c71f8b469576b91fe116f)  
+- 🛠️ Tech I use often: Python, SQL, PySpark, Databricks, Azure (ADF, Data Lake, DevOps), AWS (S3, Glue, Redshift), Power BI & Tableau.  [oai_citation:2‡Suprathika_V_Resume_Data_Engineer.pdf](sediment://file_000000000c5c71f8b469576b91fe116f)  
+- 📚 Recent projects:  
+  - Retailia – dual-agent RAG chatbot with Llama 3.1 and FAISS vector search.  [oai_citation:3‡Suprathika_V_Resume_Data_Engineer.pdf](sediment://file_000000000c5c71f8b469576b91fe116f)  
+  - End-to-end Azure Lakehouse with Delta Lake, automated quality checks, and CI/CD.  [oai_citation:4‡Suprathika_V_Resume_Data_Engineer.pdf](sediment://file_000000000c5c71f8b469576b91fe116f)  
+- 📫 How to reach me:  
+  - Email: **suprathika.v06@gmail.com**  
+  - LinkedIn: [linkedin.com/in/suprathikav](https://www.linkedin.com/in/suprathikav)
 
 ## Let's Connect!
 
