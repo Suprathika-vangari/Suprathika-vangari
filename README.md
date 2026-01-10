@@ -155,7 +155,7 @@ Scale: 1M+ transactions • 90% faster with incremental loading
 ```
 
 **The build:**
-- **Orchestration:** Airflow DAGs managing the workflow dance
+- **Orchestration:** Airflow DAGs managing the workflow 
 - **Transformation:** dbt models (staging → core) with incremental materialization
 - **Quality:** 9 automated tests ensuring data integrity
 - **DevOps:** GitHub Actions CI/CD for every commit
