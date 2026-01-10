@@ -5,7 +5,7 @@
 
 <!-- Header with Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177E8&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Suprathika+%F0%9F%91%8B;Data+Engineer+%7C+Building+Production-Grade+Pipelines;Learning+from+data+is+the+best+leverage" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177E8&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Suprathika+%F0%9F%91%8B;Learning+from+data+is+the+best+leverage" alt="Typing SVG" />
 </div>
 
 <br>
@@ -29,12 +29,12 @@
 
 ## 💻 About Me
 
-Data Engineer with a passion for building scalable, production-grade data pipelines. I transform raw data into actionable insights using modern cloud platforms and orchestration tools.
+Data Engineer who loves turning messy data into stories worth telling. When I'm not wrangling pipelines, you'll find me diving into Medium articles or experimenting with the latest tools in my data stack.
 
-- 🔍 Working on **end-to-end data pipelines**, **lakehouse architectures**, and **AI-powered analytics**
-- 🌱 Constantly learning new tools and exploring **Airflow**, **dbt**, **Spark**, and **cloud data platforms**
-- 📚 Avid reader of **Medium** and **Substack** for data engineering insights
-- 🎯 Focus: Building credible, production-ready data solutions
+- 🔍 Building **end-to-end data pipelines**, **lakehouse architectures**, and **AI-powered solutions**
+- 🌱 Always learning - currently exploring **Airflow**, **dbt**, **Spark**, and **cloud data platforms**
+- 📚 Medium and Substack enthusiast for data engineering wisdom
+- 🎯 Mission: Making data work smarter, not harder
 
 ---
 
@@ -65,104 +65,117 @@ Data Engineer with a passion for building scalable, production-grade data pipeli
 </tr>
 </table>
 
-### **Data Visualization & Tools**
+### **Visualization & Analytics**
 <div align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker" />
+  <img src="https://img.shields.io/badge/QlikView-009848?style=for-the-badge&logo=qlik&logoColor=white" alt="QlikView" />
+</div>
+
+### **Development Tools**
+<div align="center">
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" alt="Flink" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
-### **Computer Science Foundations**
+### **Project Management & Collaboration**
 <div align="center">
-  <kbd>Networking</kbd>
-  <kbd>Statistics & Probability</kbd>
-  <kbd>Machine Learning</kbd>
-  <kbd>AI</kbd>
-  <kbd>Data Mining</kbd>
-  <kbd>Cybersecurity</kbd>
-  <kbd>Java</kbd>
-  <kbd>C/C++</kbd>
+  <kbd>ServiceNow</kbd>
+  <kbd>Jira</kbd>
+  <kbd>Monday.com</kbd>
 </div>
+
+### **Foundations**
+
+**Computer Science:** Data Structures & Algorithms • Database Management Systems • Operating Systems • Software Engineering • Web Technologies
+
+**Data Science:** Big Data Analytics • Applied Machine Learning • Data Modeling • Knowledge Management • Principles of Data Science
+
+**Languages:** Python • SQL • Java • C/C++ • Kotlin • HTML/CSS
 
 ---
 
 ## 💡 Featured Projects
 
-### 🏪 [End-to-End Retail Data Pipeline](https://github.com/Suprathika-vangari/e2e-retail-data-pipeline)
+### 🤖 [Retailia: AI-Powered Customer Support Agent](https://github.com/Suprathika-vangari/Retailia-Chatbot-with-Llama3-and-Agentic-RAG)
 
-**Production-grade data pipeline processing 1M+ retail transactions**
+**Conversational AI meets retail intelligence**
+
+```yaml
+Tech Stack: Python • Llama 3.1 • LangChain • LangGraph • FAISS • MySQL • Streamlit
+The Challenge: High query volumes + slow responses = frustrated customers
+The Solution: Agentic RAG architecture with dual intelligence
+```
+
+**What makes it special:**
+- **Smart Routing:** Agentic RAG Handler directs queries to the right brain
+  - **SQL Agent:** Real-time data from MySQL (orders, products, inventory)
+  - **FAQ Agent:** Instant answers from FAISS vector knowledge base
+- **LLM Orchestration:** LangChain + LangGraph for seamless agent coordination
+- **Prompt Engineering:** Zero-shot and few-shot techniques for contextually aware responses
+- **User Experience:** Streamlit interface with secure authentication
+
+**Impact:** Automated customer service that's actually helpful, respectful, and knows when to pull from structured vs. unstructured data.
+
+---
+
+### 🌍 [Cloud-Based Crime Data Analytics Pipeline](https://github.com/Suprathika-vangari/Neighborhood-Crime-Analysis-with-GCP)
+
+**Big data meets crime pattern detection**
+
+```yaml
+Tech Stack: GCP • Dataproc • BigQuery • Hadoop • Hive • Spark • OpenRefine • Tableau
+Mission: Turn raw crime data into actionable insights for safer communities
+```
+
+**Architecture breakdown:**
+- **Data Lake:** Google Cloud Storage for scalable raw data management
+- **Processing Power:** Cloud Dataproc Hadoop cluster for distributed computing
+- **Dual Query Engine:** Compared Hive SQL vs. Spark SQL performance
+- **Data Quality:** OpenRefine for cleaning and standardization
+- **Analytics:** BigQuery external tables for pattern detection
+- **Insights:** Tableau dashboards revealing theft hotspots and temporal trends
+
+**Key Learning:** Full data lifecycle on GCP - from messy police records to actionable intelligence.
+
+---
+
+### 📦 [Production-Grade Retail Data Pipeline](https://github.com/Suprathika-vangari/e2e-retail-data-pipeline)
+
+**Modern data stack in action**
 
 ```yaml
 Tech Stack: Airflow • dbt • PostgreSQL • Docker • CI/CD
-Highlights:
-  - ⚡ 90% faster processing with incremental loading
-  - ✅ 9 automated data quality tests
-  - 🔄 Automated CI/CD pipeline with GitHub Actions
-  - 📈 Processing 1M+ transactions in 5 minutes
-  - 📦 Fully containerized with Docker Compose
+Scale: 1M+ transactions • 90% faster with incremental loading
 ```
 
-**Key Features:**
-- **Orchestration:** Apache Airflow DAGs for workflow management
-- **Transformation:** dbt models with staging → core layer architecture
-- **Performance:** Date-based partitioning and incremental strategies
-- **Quality:** Comprehensive testing framework (not-null, unique, referential integrity)
-- **DevOps:** Automated testing on every commit
-
-<details>
-<summary><b>View Architecture</b></summary>
-
-```
-Airflow Orchestration
-        ↓
-   [Seed → Run → Test]
-        ↓
-   dbt Transformations
-   Raw → Staging → Core
-        ↓
-   PostgreSQL Warehouse
-   (Star Schema)
-```
-</details>
+**The build:**
+- **Orchestration:** Airflow DAGs managing the workflow dance
+- **Transformation:** dbt models (staging → core) with incremental materialization
+- **Quality:** 9 automated tests ensuring data integrity
+- **DevOps:** GitHub Actions CI/CD for every commit
+- **Infrastructure:** Fully Dockerized for "works on my machine" peace of mind
 
 ---
 
-### 📍 [Neighborhood Crime Analysis with GCP](https://github.com/Suprathika-vangari/Neighborhood-Crime-Analysis-with-GCP)
+## 🎓 Certifications & Training
 
-**Big data analytics pipeline for crime pattern analysis**
+**🎯 Databricks Certified Data Engineer Associate**
+- Production-grade data engineering on Databricks platform
 
-```yaml
-Tech Stack: GCP • Dataproc • Dataflow • BigQuery • Hadoop • Hive • Spark • Tableau
-Data Processing:
-  - 🧹 Data cleaning with OpenRefine
-  - ☁️ Cloud-native processing on GCP
-  - 📊 Interactive visualizations in Tableau
-  - 🔍 Pattern detection and spatial analysis
-```
+**📚 DataExpert.io Bootcamp Graduate**
+- Dimensional data modeling & fact table design
+- Apache Flink, Kafka, Snowflake, Spark deep-dives
+- Data quality patterns & pipeline maintenance
+- KPIs, experimentation, and analytical patterns
 
-**Pipeline Components:**
-- **Data Cleaning:** OpenRefine for quality assurance
-- **Storage & Processing:** GCP Dataproc with Hadoop & Spark clusters
-- **Transformations:** Hive queries for aggregations
-- **Streaming:** Dataflow for real-time processing
-- **Analytics:** BigQuery for SQL-based analysis
-- **Visualization:** Tableau dashboards for insights
-
----
-
-### 🔄 [Recent: Airflow + dbt Modern Data Stack](https://github.com/Suprathika-vangari/e2e-retail-data-pipeline)
-
-**Exploring modern ELT patterns with orchestration**
-
-```yaml
-Focus Areas:
-  - 🧱 Modular dbt models
-  - 🔄 Airflow task dependencies
-  - ⚡ Incremental materialization strategies
-  - 📦 Infrastructure as Code with Docker
-```
+**🤖 Google Gen AI Intensive (Kaggle)**
+- 5-day bootcamp diving into LLM fundamentals
+- Studied 5 key research papers on generative AI
 
 ---
 
@@ -179,43 +192,42 @@ Focus Areas:
 
 ---
 
-## 🎯 Current Focus
+## 💻 Current Focus
 
-```python
-class DataEngineer:
-    def __init__(self):
-        self.name = "Suprathika"
-        self.role = "Data Engineer"
-        self.learning = [
-            "Airflow orchestration patterns",
-            "dbt advanced features",
-            "Spark optimization techniques",
-            "Cloud-native architectures"
-        ]
-        self.interests = [
-            "Production-grade data systems",
-            "ELT pipeline design",
-            "Data quality frameworks",
-            "Modern data stack"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing with data.")
+```sql
+-- The data never lies, but sometimes it tells jokes
 
-me = DataEngineer()
-me.say_hi()
+SELECT 
+    'Suprathika' AS name,
+    'Data Engineer' AS role,
+    ARRAY[
+        'Airflow orchestration patterns',
+        'dbt incremental strategies',
+        'Spark optimization wizardry',
+        'Cloud-native architectures'
+    ] AS currently_learning,
+    ARRAY[
+        'Production-grade systems',
+        'ELT pipeline design',
+        'Data quality frameworks',
+        'Modern data stack'
+    ] AS interests,
+    'Building one pipeline at a time 🚀' AS motto
+FROM data_engineer_life
+WHERE coffee_level > 0
+    AND curiosity = 'infinite';
 ```
 
 ---
 
-## 📝 Latest from the Data World
+## 📝 What I'm Reading
 
-I regularly read and learn from:
-- 📝 **Medium**: Data engineering best practices, architecture patterns
-- 📨 **Substack**: Industry insights and technical deep-dives
-- 📖 **Tech Blogs**: Cloud platform updates, tool documentation
+Always hunting for the next "aha!" moment:
+- 📝 **Medium**: Best practices, architecture patterns, war stories
+- 📨 **Substack**: Deep technical insights from data practitioners  
+- 📖 **Tech Docs**: Because sometimes the manual is the real MVP
 
-*Building credible, production-ready data solutions one pipeline at a time.*
+*Less talk, more pipelines. Let's build something cool with data.* ✨
 
 ---
 
