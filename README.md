@@ -29,7 +29,7 @@
 
 ## 💻 About Me
 
-Data Engineer who loves turning messy data into stories worth telling. When I'm not wrangling pipelines, you'll find me diving into Medium articles or experimenting with the latest tools in my data stack.
+I'm interested in learning everything in new tech preferably in data and ai and excited about how they both are converging. I also like to watch movies, especially the mystery and horror thrillers.
 
 - 🔍 Building **end-to-end data pipelines**, **lakehouse architectures**, and **AI-powered solutions**
 - 🌱 Always learning - currently exploring **Airflow**, **dbt**, **Spark**, and **cloud data platforms**
@@ -222,10 +222,10 @@ WHERE coffee_level > 0
 
 Always hunting for the next "aha!" moment:
 - 📝 **Reading:** Medium & Substack for best practices, architecture patterns, and technical insights
-- ✍️ **Want to Write Someday:** Sharing my own data engineering journey and learnings
+- ✍️ **Want to Write Someday:** Sharing my own journey and learnings
 - 📖 **Tech Docs:** Because sometimes the manual is the real MVP
 
-*There's always something to learn in the world of data.* ✨
+*There's always something to learn!* ✨
 
 ---
 
