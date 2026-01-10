@@ -230,5 +230,4 @@ Always hunting for the next "aha!" moment:
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXVvYTE5ODNxcXZoMm02MmZ6Mmc4NWN4eW5vODV1dzFidjYwMGw3eCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jakQnxhPwrbOdEZDul/giphy.gif" alt="Data Data Everywhere"/>
-</div>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl3aDNlcDluMWJtbDBiN2FkdGV1NHBwcmJocHczMnk2bGQwbm5saCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RnLP8ZlAEeuWc5khno/giphy.gif" alt="Data Analytics" /></div>
