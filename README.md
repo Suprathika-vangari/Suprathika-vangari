@@ -5,7 +5,7 @@
 
 <!-- Header with Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177E8&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Suprathika+%F0%9F%91%8B;Learning+from+data+is+the+best+leverage" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177E8&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Suprathika+%F0%9F%91%8B;Learning+from+data+is+the+best+leverage;Feel+free+to+connect!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -35,6 +35,7 @@ Data Engineer who loves turning messy data into stories worth telling. When I'm 
 - 🌱 Always learning - currently exploring **Airflow**, **dbt**, **Spark**, and **cloud data platforms**
 - 📚 Medium and Substack enthusiast for data engineering wisdom
 - 🎯 Mission: Making data work smarter, not harder
+- 📦 Organized person who believes in structure and clarity
 
 ---
 
@@ -144,9 +145,9 @@ Mission: Turn raw crime data into actionable insights for safer communities
 
 ---
 
-### 📦 [Production-Grade Retail Data Pipeline](https://github.com/Suprathika-vangari/e2e-retail-data-pipeline)
+### 📦 [Retail Data Pipeline with Modern Data Stack](https://github.com/Suprathika-vangari/e2e-retail-data-pipeline)
 
-**Modern data stack in action**
+**Orchestrating 1M+ transactions with Airflow & dbt**
 
 ```yaml
 Tech Stack: Airflow • dbt • PostgreSQL • Docker • CI/CD
@@ -158,7 +159,7 @@ Scale: 1M+ transactions • 90% faster with incremental loading
 - **Transformation:** dbt models (staging → core) with incremental materialization
 - **Quality:** 9 automated tests ensuring data integrity
 - **DevOps:** GitHub Actions CI/CD for every commit
-- **Infrastructure:** Fully Dockerized for "works on my machine" peace of mind
+- **Infrastructure:** Fully Dockerized for consistency across environments
 
 ---
 
@@ -179,16 +180,13 @@ Scale: 1M+ transactions • 90% faster with incremental loading
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 GitHub Activity Snake
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suprathika-vangari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suprathika-vangari&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suprathika-vangari&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suprathika-vangari/Suprathika-vangari/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suprathika-vangari/Suprathika-vangari/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Suprathika-vangari/Suprathika-vangari/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -212,7 +210,7 @@ SELECT
         'Data quality frameworks',
         'Modern data stack'
     ] AS interests,
-    'Building one pipeline at a time 🚀' AS motto
+    'There\'s always something to learn 🌟' AS motto
 FROM data_engineer_life
 WHERE coffee_level > 0
     AND curiosity = 'infinite';
@@ -220,14 +218,14 @@ WHERE coffee_level > 0
 
 ---
 
-## 📝 What I'm Reading
+## 📝 What I'm Reading & Writing
 
 Always hunting for the next "aha!" moment:
-- 📝 **Medium**: Best practices, architecture patterns, war stories
-- 📨 **Substack**: Deep technical insights from data practitioners  
-- 📖 **Tech Docs**: Because sometimes the manual is the real MVP
+- 📝 **Reading:** Medium & Substack for best practices, architecture patterns, and technical insights
+- ✍️ **Want to Write Someday:** Sharing my own data engineering journey and learnings
+- 📖 **Tech Docs:** Because sometimes the manual is the real MVP
 
-*Less talk, more pipelines. Let's build something cool with data.* ✨
+*There's always something to learn in the world of data.* ✨
 
 ---
 
