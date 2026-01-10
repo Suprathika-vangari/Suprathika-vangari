@@ -230,5 +230,5 @@ Always hunting for the next "aha!" moment:
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXVvYTE5ODNxcXZoMm02MmZ6Mmc4NWN4eW5vODV1dzFidjYwMGw3eCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jakQnxhPwrbOdEZDul/giphy.gif" alt="Data Data Everywhere" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXVvYTE5ODNxcXZoMm02MmZ6Mmc4NWN4eW5vODV1dzFidjYwMGw3eCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jakQnxhPwrbOdEZDul/giphy.gif" alt="Data Data Everywhere"/>
 </div>
