@@ -4,7 +4,7 @@
 
 <!-- Header with Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177E8&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Suprathika+%F0%9F%91%8B;Wavin'+at+you🙃;Learning+from+data+is+the+best+leverage;Feel+free+to+connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177E8&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Suprathika+%F0%9F%91%8B;Wavin'+at+you;Learning+from+data+is+the+best+leverage;Feel+free+to+connect!"alt="Typing SVG"/>
 </div>
 
 <br>
