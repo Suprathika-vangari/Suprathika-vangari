@@ -4,14 +4,14 @@
 
 <!-- Header with Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177E8&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Suprathika+%F0%9F%91%8B;Learning+from+data+is+the+best+leverage;Feel+free+to+connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177E8&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Suprathika+%F0%9F%91%8B;Wavin'+at+you;Learning+from+data+is+the+best+leverage;Feel+free+to+connect!" alt="Typing SVG" />
 </div>
 
 <br>
 
 <!-- Social Links -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/suprathika">
+  <a href="https://www.linkedin.com/in/suprathikav">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:suprathika.v@gmail.com">
@@ -31,13 +31,15 @@
 
 ## 💻 About Me
 
-I'm interested in learning everything in new tech preferably in data and ai and excited about how they both are converging. I also like to watch movies, especially the mystery and horror thrillers.
-
-- 🔍 Building **end-to-end data pipelines**, **lakehouse architectures**, and **AI-powered solutions**
-- 🌱 Always learning - currently exploring **Airflow**, **dbt**, **Spark**, and **cloud data platforms**
-- 📚 Medium and Substack enthusiast for data engineering wisdom
-- 🎯 Mission: Making data work smarter, not harder
+I'm constantly learning about emerging tech in data and AI, and while their convergence is exciting, I'll admit it's also a bit intimidating. 
+- 👷🏻‍♀️ Building **end-to-end data pipelines**, **lakehouse architectures**, and **AI-powered solutions**
+- 🌱 Currently learning - **Airflow**, **dbt**, **Spark**, and **cloud data platforms**
+- 📚 Medium and Substack enthusiast for data engineering & tech wisdom
+- 🎯 Making data work smarter, not harder!
 - 📦 Organized person who believes in structure and clarity
+- 🍿 Binge-watching mystery/horror/thriller is my guilty pleasure
+-  
+
 
 ---
 ## 📊 GitHub Stats
@@ -122,7 +124,7 @@ I'm interested in learning everything in new tech preferably in data and ai and 
 
 ---
 
-## 💡 Featured Projects
+## 🙋🏻‍♀️ A little to brag about my recent projects 
 
 ### 🤖 [Retailia: AI-Powered Customer Support Agent](https://github.com/Suprathika-vangari/Retailia-Chatbot-with-Llama3-and-Agentic-RAG)
 
@@ -242,7 +244,7 @@ Always hunting for the next "aha!" moment:
 
 ---
 
-### 🚀 My contributions! Whose <img src="https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width="30" height="30"> snake is this!? 😭
+### Snake eating away my contributions! 🐍
 
 ![Contribution grid snake animation](https://raw.githubusercontent.com/Suprathika-vangari/Suprathika-vangari/output/github-contribution-grid-snake-dark.svg)
 
