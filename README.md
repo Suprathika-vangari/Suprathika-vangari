@@ -53,7 +53,13 @@ I'm constantly learning about emerging tech in data and AI, and while their conv
 
 ### **Data Engineering Core**
 
-```text█████████░ Python       █████████░ SQL
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+</div>
+
+
+```█████████░ Python       █████████░ SQL
 ████████░░ PySpark      ███████░░░ Airflow
 ███████░░░ dbt          ██████░░░░ Bash/Shell
 ```
@@ -223,7 +229,7 @@ SELECT
         'Data quality frameworks',
         'Modern data stack'
     ] AS interests,
-    'There\'s always something to learn 🌟' AS motto
+    'There's always something to learn 🌟' AS motto
 FROM data_engineer_life
 WHERE coffee_level > 0
     AND curiosity = 'infinite';
