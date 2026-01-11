@@ -38,7 +38,6 @@ I'm constantly learning about emerging tech in data and AI, and while their conv
 - 🎯 Making data work smarter, not harder!
 - 📦 Organized person who believes in structure and clarity
 - 🍿 Binge-watching mystery/horror/thriller is my guilty pleasure
--  
 
 
 ---
@@ -70,7 +69,6 @@ I'm constantly learning about emerging tech in data and AI, and while their conv
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex" />
 </div>
-```
 
 ### **Cloud Platforms**
 <table>
