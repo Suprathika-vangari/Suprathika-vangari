@@ -19,6 +19,9 @@
   </a>
   <a href="https://github.com/Suprathika-vangari">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <a href="https://www.pinterest.com/suprathika_v/">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+  </a>
   </a>
 </div>
 
@@ -37,14 +40,34 @@ I'm interested in learning everything in new tech preferably in data and ai and 
 - 📦 Organized person who believes in structure and clarity
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suprathika-vangari&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=A177E8&fire=A177E8&currStreakLabel=A177E8" alt="GitHub Streak Stats" />
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
 ### **Data Engineering Core**
-```text
-█████████░ Python       █████████░ SQL
+
+```text█████████░ Python       █████████░ SQL
 ████████░░ PySpark      ███████░░░ Airflow
 ███████░░░ dbt          ██████░░░░ Bash/Shell
+```
+
+### **Python Libraries & Frameworks**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex" />
+</div>
 ```
 
 ### **Cloud Platforms**
@@ -216,6 +239,12 @@ Always hunting for the next "aha!" moment:
 - 📖 **Tech Docs:** Because sometimes the manual is the real MVP
 
 *There's always something to learn!* ✨
+
+---
+
+### 🚀 My contributions! Whose <img src="https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width="30" height="30"> snake is this!? 😭
+
+![Contribution grid snake animation](https://raw.githubusercontent.com/Suprathika-vangari/Suprathika-vangari/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
