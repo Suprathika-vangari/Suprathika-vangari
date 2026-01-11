@@ -244,7 +244,7 @@ Always hunting for the next "aha!" moment:
 
 ### Snake eating away my contributions! 🐍
 
-![Contribution grid snake animation](https://raw.githubusercontent.com/Suprathika-vangari/Suprathika-vangari/output/github-contribution-grid-snake-dark.svg)
+![Contribution grid snake animation](https://raw.githubusercontent.com/Suprathika-vangari/My-GitHub-Portfolio/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
