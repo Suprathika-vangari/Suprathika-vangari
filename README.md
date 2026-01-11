@@ -53,16 +53,12 @@ I'm constantly learning about emerging tech in data and AI, and while their conv
 
 ### **Data Engineering Core**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-</div>
-
-
-```█████████░ Python       █████████░ SQL
+```text
+█████████░ Python       █████████░ SQL
 ████████░░ PySpark      ███████░░░ Airflow
 ███████░░░ dbt          ██████░░░░ Bash/Shell
 ```
+
 
 ### **Python Libraries & Frameworks**
 
@@ -208,35 +204,6 @@ Scale: 1M+ transactions • 90% faster with incremental loading
 
 ---
 
-
-## 💻 Current Focus
-
-```sql
--- The data never lies, but sometimes it tells jokes
-
-SELECT 
-    'Suprathika' AS name,
-    'Data Engineer' AS role,
-    ARRAY[
-        'Airflow orchestration patterns',
-        'dbt incremental strategies',
-        'Spark optimization wizardry',
-        'Cloud-native architectures'
-    ] AS currently_learning,
-    ARRAY[
-        'Production-grade systems',
-        'ELT pipeline design',
-        'Data quality frameworks',
-        'Modern data stack'
-    ] AS interests,
-    'There's always something to learn 🌟' AS motto
-FROM data_engineer_life
-WHERE coffee_level > 0
-    AND curiosity = 'infinite';
-```
-
----
-
 ## 📝 What I'm Reading & Writing
 
 Always hunting for the next "aha!" moment:
@@ -248,7 +215,7 @@ Always hunting for the next "aha!" moment:
 
 ---
 
-### Snake eating away my contributions! 🐍
+### Look at this 🐍 eating it all away! 
 
 ![Contribution grid snake animation](https://raw.githubusercontent.com/Suprathika-vangari/My-GitHub-Portfolio/output/github-contribution-grid-snake-dark.svg)
 
