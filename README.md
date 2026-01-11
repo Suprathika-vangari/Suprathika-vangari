@@ -1,6 +1,5 @@
 <!-- Visitor Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suprathika-vangari&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <!-- Header with Typing Animation -->
@@ -180,15 +179,6 @@ Scale: 1M+ transactions • 90% faster with incremental loading
 
 ---
 
-## 🐍 GitHub Activity Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suprathika-vangari/Suprathika-vangari/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suprathika-vangari/Suprathika-vangari/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Suprathika-vangari/Suprathika-vangari/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ## 💻 Current Focus
 
